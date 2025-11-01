@@ -1,6 +1,6 @@
 {
   "name": "gym-website",
-  "homepage": "https://RileyWren.github.io/gym-website/",
+  "homepage": "https://gym-website-mocha-six.vercel.app/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
