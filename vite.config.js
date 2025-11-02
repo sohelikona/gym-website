@@ -7,5 +7,5 @@ export default defineConfig({
   plugins: [react(),
      tailwindcss(),
   ],
-  base: "/gym-website/rimu"
+  base: process.env.VITE_BASE_PATH || "/gym-website-rimu"
 })
